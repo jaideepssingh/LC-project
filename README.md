@@ -1,2 +1,2 @@
 # Lending club data
-# LC_EDA: Exploratory data analysis
+LC_EDA: Exploratory data analysis
